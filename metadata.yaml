@@ -25,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3840
     wikipedia: http://en.wikipedia.org/wiki/George_Manville_Fenn
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23375#Jack-at-Sea--All-Work-and-No-Play-Made-Him-a-Dull-Boy
 gutenberg_issued: '2007-11-06'
 gutenberg_type: Text
 identifiers:
